@@ -1,14 +1,12 @@
-# esp8266-project1
+tu# esp8266-project1
 Smart IoT Garbage Bin
  Built a Smart IoT Garbage Bin from E-Waste! 
-
-Excited to share my latest college project — a Smart Garbage Monitoring System built using ESP8266 and mostly recycled materials.
 
 🔧 What it does:
 • 📏 Ultrasonic sensor measures bin fill level
 • 📺 OLED displays real-time garbage percentage
 • 📱 Blynk IoT app enables remote monitoring
-• 🌐 Local web server for on-site checking
+• 🌐 Local web server for on-site checking(esp default ip)
 • 🔥 DHT11 monitors temperature for fire safety
 • 🔔 Automatic alerts when bin is full or overheating
 • 📊 Daily morning report for garbage truck planning
